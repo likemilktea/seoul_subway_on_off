@@ -13,6 +13,7 @@
     * seoul_subway.csv : 지하철 정보 소스 파일
     * tmplates/start.html : 시작 페이지
     * tmplates/result.html : 결과 페이지
+    * diagram.png : 구조도
     
 
 ### 결과
