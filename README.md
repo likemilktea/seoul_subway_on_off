@@ -23,6 +23,7 @@
 ### 결과
    * [입력](https://likemilktea.github.io/Flask_Subway/templates/start.html)
    * [출력](https://likemilktea.github.io/Flask_Subway/sample_result.html)
+   * <a href="Flask_Subway/templates/start.html">여기를 클릭하여 가이드를 확인하세요.</a>
 
 
 
