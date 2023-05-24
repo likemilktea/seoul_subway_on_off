@@ -2,7 +2,7 @@
 
 ### 소개
  1. 개요
-    * https://data.seoul.go.kr/
+    * 출처 : 서울 열린 데이터 광장 https://data.seoul.go.kr/
  2. 구조도
     * BeautifulSoup
  3. 파일 구조도
