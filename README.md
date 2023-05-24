@@ -8,13 +8,13 @@
 ![구조도](Flask_Subway/diagram.png)
     
 ### 파일 설명
-    * flask_app.py : 메인 파일. 플라스크 서버 구동, subway_rf.pkl 모델 파일을 불러와 데이터 처리 및 Html 파일에의 정보 전송
-    * model_rf.py : subway_rf.pkl 머신모델 제작 프로그램.
-    * subway_rf.pkl : LinearRegression으로 학습된 머신러닝 모델.
+    * flask_app.py : 메인 파일. 플라스크 서버 구동, subway_rf.pkl 모델 파일을 불러와 데이터 처리 및 Html 파일에의 정보 전송 [코드](Flask_Subway
+    * model_rf.py : subway_rf.pkl 머신모델 제작 프로그램. [코드](Flask_Subway
+    * subway_rf.pkl : LinearRegression으로 학습된 머신러닝 모델. [코드](Flask_Subway
     * seoul_subway.csv : 지하철 정보 소스 파일
-    * tmplates/start.html : 시작 페이지
-    * tmplates/result.html : 결과 페이지
-    * diagram.png : 구조도
+    * tmplates/start.html : 시작 페이지 [코드](Flask_Subway
+    * tmplates/result.html : 결과 페이지 [코드](Flask_Subway
+    * diagram.png : 구조도[](Flask_Subway
     
 
 ### 결과
