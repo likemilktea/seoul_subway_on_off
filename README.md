@@ -16,10 +16,13 @@
    * tmplates/start.html : 시작 페이지 [코드](Flask_Subway/templates/start.html)
    * tmplates/result.html : 결과 페이지 [코드](Flask_Subway/templates/result.html)
    * diagram.png : 구조도
+   * sample_start.html : 시작 페이지 샘플
+   * sample_result.html : 결과 페이지 샘플
     
 
 ### 결과
-    * 
+   * [입력](https://likemilktea.github.io/Flask_Subway/templates/start.html)
+   * [출력](https://likemilktea.github.io/Flask_Subway/sample_result.html)
 
 
 
