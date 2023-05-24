@@ -6,7 +6,7 @@ import pickle
 app=Flask(__name__)
 
 # 모델 가져오기
-path=r'D:\Github\seoul_subway_on_off\Flask_Subway\model_rf.py'
+path=r'D:\Github\seoul_subway_on_off\Flask_Subway\subway_rf.pkl'
 model=pickle.load(open(path,'rb'))
 print(model)
 

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html>
-<head>
+<!-- saved from url=(0022)http://127.0.0.1:5000/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>지하철 하차 인원 예측</title>
   <style>
     /* 스타일링을 위한 CSS 코드 */
@@ -34,21 +34,21 @@
 </head>
 <body>
     <h1>지하철 하차 인원 예측</h1>
-    <form action="/result" method="post">
+    <form action="http://127.0.0.1:5000/result" method="post">
         <table>
-            <tr>
+            <tbody><tr>
             <th>날짜</th>
             <th>호선명</th>
             <th>승차인원</th>
             </tr>
             <tr>
-            <td><input type="text" name="value1" placeholder='사용월'></td>
-            <td><input type="text" name="value2" placeholder='호선명'></td>
-            <td><input type="text" name="value3" placeholder='07시-08시 승차인원'></td>
+            <td><input type="text" name="value1" placeholder="사용월" data-siid="si_input_0"></td>
+            <td><input type="text" name="value2" placeholder="호선명" data-siid="si_input_1"></td>
+            <td><input type="text" name="value3" placeholder="07시-08시 승차인원" data-siid="si_input_2"></td>
             <td><input type="submit" value="예측하기"></td>
             </tr>
             
-        </table>
+        </tbody></table>
     </form>
-</body>
-</html>
+
+</body></html>
