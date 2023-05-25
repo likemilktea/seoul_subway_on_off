@@ -22,7 +22,7 @@
 
 ### 결과
 ![출력창](Flask_Subway/result.png)
-   * [입력](https://likemilktea.github.io/seoul_subway_on_off/Flask_Subway/templates/start.html)
+   * [입력](https://likemilktea.github.io/seoul_subway_on_off/Flask_Subway/sample_start.html)
    * [출력](https://likemilktea.github.io/seoul_subway_on_off/Flask_Subway/sample_result.html)
 
 
