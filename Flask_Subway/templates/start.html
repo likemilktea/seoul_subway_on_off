@@ -30,6 +30,12 @@
     tr:nth-child(even) {
       background-color: #f9f9f9;
     }
+    .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 10vh; /* 원하는 높이 값으로 변경할 수 있습니다. */
+    }
   </style>
 </head>
 <body>
@@ -45,10 +51,11 @@
             <td><input type="text" name="value1" placeholder='사용월'></td>
             <td><input type="text" name="value2" placeholder='호선명'></td>
             <td><input type="text" name="value3" placeholder='07시-08시 승차인원'></td>
-            <td><input type="submit" value="예측하기"></td>
             </tr>
-            
         </table>
+        <div class="center">
+          <input type="submit" value="예측하기">
+        </div>
     </form>
 </body>
 </html>
